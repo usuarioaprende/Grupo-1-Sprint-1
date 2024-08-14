@@ -39,7 +39,7 @@ La maqueta debe constar de las siguientes secciones principales:
 ### Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/banco-juventud.git
+git clone https://github.com/tu-usuario/Grupo-1-Sprint-1.git
 cd banco-juventud
 ```
 
